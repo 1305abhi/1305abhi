@@ -77,13 +77,12 @@ I’m gradually building and publishing:
 - LinkedIn: (add link)
 - Email: (add professional email)
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=1305abhi&show_icons=true
-  " />
-</p>
+<!-- <p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=1305abhi&show_icons=true" />
+</p> -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=1305abhi" />
-</p>
+<!-- </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1305abhi&layout=compact&theme=default" />
-</p>
+</p> -->
