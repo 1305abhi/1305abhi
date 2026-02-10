@@ -74,8 +74,8 @@ I’m gradually building and publishing:
 
 ## Connect With Me
 
-- LinkedIn: (add link)
-- Email: (add professional email)
+- LinkedIn: https://www.linkedin.com/in/abhinandantiwari/
+- Email: tiwariabhinandan99@gmail.com
 
 <!-- <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=1305abhi&show_icons=true" />
