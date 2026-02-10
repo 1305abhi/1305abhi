@@ -78,11 +78,11 @@ I’m gradually building and publishing:
 - Email: (add professional email)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1305abhi&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=1305abhi&show_icons=true&theme=default" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=1305abhi" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1305abhi&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1305abhi&layout=compact&theme=default" />
 </p>
