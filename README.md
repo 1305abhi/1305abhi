@@ -92,16 +92,15 @@ Authentication • Messaging Systems • Pre-release validation
 
 ---
 
-## <p align="center" style="color:#8E7AB5;">Currently Building</p>
-
-<p align="center">
-
-Selenium Automation Framework  
-API Testing Suite  
-Security Testing Notes  
+## <p align="center">
+<span style="color:#8E7AB5; font-size:20px;"><b>Currently Building</b></span>
+<br><br>
+Selenium Automation Framework<br>
+API Testing Suite<br>
+Security Testing Notes<br>
 Recon & Utility Scripts
-
 </p>
+
 
 <br>
 
