@@ -1,105 +1,69 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=200&section=header&text=Abhinandan%20Tiwari&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=220&section=header&text=Abhinandan%20Tiwari&fontSize=44&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">Junior Software Tester | Automation Testing | Cybersecurity Enthusiast</h3>
+<h3 align="center">Junior Software Tester</h3>
 
 <p align="center">
-Focused on building reliable, secure, and well-tested products.
+Automation • Reliability • Security Mindset
 </p>
 
 ---
 
-## About Me
-
-I work at the intersection of **quality assurance** and **security thinking**.
-
-- Junior Software Tester with hands-on experience in real product releases  
-- Experience testing across **Web, Android, and iOS** platforms  
-- Strong interest in **automation testing** and **application security**
-
-I like understanding how systems break so they can be made more stable and secure.
-
----
-
-## Current Focus
-
-<p>
-<img src="https://img.shields.io/badge/Automation%20Testing-Selenium-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Security-OWASP%20Top%2010-purple?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Testing-Regression-green?style=for-the-badge" />
+<p align="center">
+I test products the way real users and attackers actually interact with them.
 </p>
 
-- Building automation frameworks
-- Improving test coverage and reliability
-- Exploring web application security testing
-- Practicing CTF and lab environments
-
 ---
 
-## Skills
+## What I Do
 
 ### Testing
-
-- Manual Testing  
-- Regression Testing  
+- Functional & Regression Testing  
 - Test Case Design  
-- Bug Tracking & Reporting  
+- Release Validation  
 
 ### Automation
-
 - Selenium WebDriver  
-- Java  
-- TestNG / JUnit  
+- Java Based Test Development  
+- Framework Learning Phase  
 
-### Security
-
-- OWASP Top 10  
-- Basic Recon Techniques  
-- Vulnerability Analysis  
-
----
-
-## Experience
-
-**Junior Software Tester**  
-Since January 2025
-
-- Tested multiple production and stage releases
-- Worked on authentication and messaging modules
-- Performed cross-platform testing (Web, Android, iOS)
-- Validated new features before client delivery
+### Security Thinking
+- OWASP Top 10 Awareness  
+- Recon & Attack Surface Mindset  
+- Vulnerability-Oriented Testing  
 
 ---
 
-## What You’ll See Here Soon
+## Real World Experience
+
+Junior Software Tester since January 2025
+
+- Tested multiple stage and production releases  
+- Worked across Web, Android, and iOS platforms  
+- Focused on authentication and messaging workflows  
+- Validated features before client delivery  
+
+---
+
+## Currently Building
 
 - Selenium Automation Framework  
-- API Testing Projects  
-- Security Lab Writeups  
-- Recon & Testing Utilities  
+- API Testing Suite  
+- Security Testing Notes  
+- Recon & Utility Scripts  
 
 ---
 
-## Activity
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=1305abhi&theme=default" />
+  <img src="https://streak-stats.demolab.com?user=1305abhi" />
 </p>
 
 ---
 
-## Connect
-
 <p align="center">
-<a href="https://www.linkedin.com/in/abhinandantiwari/">
-  <img src="https://img.shields.io/badge/LinkedIn-Abhinandan%20Tiwari-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="mailto:tiwariabhinandan99@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
-</a>
+<a href="https://www.linkedin.com/in/abhinandantiwari/">LinkedIn</a> •
+<a href="mailto:tiwariabhinandan99@gmail.com">Email</a>
 </p>
 
 <p align="center">
