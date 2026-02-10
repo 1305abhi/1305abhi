@@ -93,7 +93,7 @@ Authentication • Messaging Systems • Pre-release validation
 ---
 
 ## <p align="center">
-<span style="color:#8E7AB5; font-size:20px;"><b>Currently Building</b></span>
+<span style="color:#BFA2DB; font-size:20px;"><b>Currently Building</b></span>
 <br><br>
 Selenium Automation Framework<br>
 API Testing Suite<br>
