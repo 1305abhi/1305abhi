@@ -18,134 +18,90 @@ I don’t just verify features. I validate how they fail.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:BFA2DB,100:E8C7C8&height=70"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:BFA2DB,100:E8C7C8&height=80"/>
 
-<!-- Philosophy Section -->
+---
 
-<table width="100%" cellspacing="0" cellpadding="0">
-<tr>
-<td bgcolor="#F4ECFA" align="center">
+## <p align="center" style="color:#8E7AB5;">Testing Philosophy</p>
 
-<br><br>
-
-<h2 style="color:#8E7AB5;">Testing Philosophy</h2>
-
-<p style="max-width:720px;">
+<p align="center">
 I approach testing from both sides — how users behave and how systems get abused.
 </p>
 
-<br>
+<p align="center">
 
-<p style="max-width:720px;" align="left">
-• Validate real production and stage releases<br>
-• Focus on authentication and session flows<br>
-• Look for misuse paths, not just happy paths<br>
+• Validate real production and stage releases  
+• Focus on authentication and session flows  
+• Look for misuse paths, not just happy paths  
 • Test features with attacker mindset
+
 </p>
 
-<br><br>
+<br>
 
-</td>
-</tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:E8C7C8,100:BFA2DB&height=80"/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:E8C7C8,100:BFA2DB&height=70"/>
+---
 
-<!-- Capability Section -->
+## <p align="center" style="color:#8E7AB5;">Capability Areas</p>
 
-<table width="100%" cellspacing="0" cellpadding="0">
-<tr>
-<td bgcolor="#FAF0F1" align="center">
+<p align="center">
 
-<br><br>
-
-<h2 style="color:#8E7AB5;">Capability Areas</h2>
+**Testing**  
+Functional • Regression • Release Validation • Bug Tracking  
 
 <br>
 
-<p style="max-width:720px;">
+**Automation**  
+Selenium WebDriver • Java Frameworks • Test Coverage  
 
-<b>Testing</b><br>
-Functional • Regression • Release Validation • Bug Tracking
+<br>
 
-<br><br>
-
-<b>Automation</b><br>
-Selenium WebDriver • Java Frameworks • Test Coverage
-
-<br><br>
-
-<b>Security Thinking</b><br>
+**Security Thinking**  
 OWASP Top 10 • Recon Mindset • Vulnerability Analysis
 
 </p>
 
-<br><br>
+<br>
 
-</td>
-</tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:BFA2DB,100:E8C7C8&height=80"/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:BFA2DB,100:E8C7C8&height=70"/>
+---
 
-<!-- Experience Section -->
+## <p align="center" style="color:#8E7AB5;">Experience</p>
 
-<table width="100%" cellspacing="0" cellpadding="0">
-<tr>
-<td bgcolor="#F4ECFA" align="center">
+<p align="center">
+
+**Junior Software Tester — Since Jan 2025**
 
 <br><br>
 
-<h2 style="color:#8E7AB5;">Experience</h2>
-
-<p style="max-width:720px;">
-
-<b>Junior Software Tester — Since Jan 2025</b>
-
-<br><br>
-
-Worked on real product releases across<br>
+Worked on real product releases across  
 Web • Android • iOS
 
 <br><br>
 
-Primary focus areas<br>
+Primary focus areas  
 Authentication • Messaging Systems • Pre-release validation
 
 </p>
 
-<br><br>
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:E8C7C8,100:BFA2DB&height=70"/>
-
-<!-- Currently Building -->
-
-<table width="100%" cellspacing="0" cellpadding="0">
-<tr>
-<td bgcolor="#FAF0F1" align="center">
-
-<br><br>
-
-<h2 style="color:#8E7AB5;">Currently Building</h2>
-
 <br>
 
-<p style="max-width:720px;">
-Selenium Automation Framework<br>
-API Testing Suite<br>
-Security Testing Notes<br>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:E8C7C8,100:BFA2DB&height=80"/>
+
+---
+
+## <p align="center" style="color:#8E7AB5;">Currently Building</p>
+
+<p align="center">
+
+Selenium Automation Framework  
+API Testing Suite  
+Security Testing Notes  
 Recon & Utility Scripts
+
 </p>
-
-<br><br>
-
-</td>
-</tr>
-</table>
 
 <br>
 
@@ -155,7 +111,7 @@ Recon & Utility Scripts
 
 <br>
 
-<h2 align="center" style="color:#8E7AB5;">Connect</h2>
+## <p align="center" style="color:#8E7AB5;">Connect</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/abhinandantiwari/">
