@@ -8,50 +8,62 @@
 Automation • Attack Surface Thinking • Product Reliability
 </p>
 
+<p align="center" style="color:#8E7AB5;">
+I don’t just verify features. I validate how they fail.
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=8E7AB5&center=true&vCenter=true&lines=Testing+like+a+real+user;Thinking+like+an+attacker;Building+reliable+systems" />
 </p>
 
 <br>
 
-<!-- Lavender Philosophy Section -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:BFA2DB,100:E8C7C8&height=70"/>
 
-<table width="100%">
+<!-- Philosophy Section -->
+
+<table width="100%" cellspacing="0" cellpadding="0">
 <tr>
-<td align="center" bgcolor="#F4ECFA">
-
-<br>
-
-<h2 style="color:#8E7AB5;">Testing Philosophy</h2>
-
-I approach testing from both sides — how users behave and how systems get abused.
+<td bgcolor="#F4ECFA" align="center">
 
 <br><br>
 
-• Validate real production and stage releases  
-• Focus on authentication and session flows  
-• Look for misuse paths, not just happy paths  
-• Test features with attacker mindset  
+<h2 style="color:#8E7AB5;">Testing Philosophy</h2>
+
+<p style="max-width:720px;">
+I approach testing from both sides — how users behave and how systems get abused.
+</p>
 
 <br>
+
+<p style="max-width:720px;" align="left">
+• Validate real production and stage releases<br>
+• Focus on authentication and session flows<br>
+• Look for misuse paths, not just happy paths<br>
+• Test features with attacker mindset
+</p>
+
+<br><br>
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:E8C7C8,100:BFA2DB&height=80"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:E8C7C8,100:BFA2DB&height=70"/>
 
-<!-- Pink Capability Section -->
+<!-- Capability Section -->
 
-<table width="100%">
+<table width="100%" cellspacing="0" cellpadding="0">
 <tr>
-<td align="center" bgcolor="#FAF0F1">
+<td bgcolor="#FAF0F1" align="center">
 
-<br>
+<br><br>
 
 <h2 style="color:#8E7AB5;">Capability Areas</h2>
 
 <br>
+
+<p style="max-width:720px;">
 
 <b>Testing</b><br>
 Functional • Regression • Release Validation • Bug Tracking
@@ -66,38 +78,41 @@ Selenium WebDriver • Java Frameworks • Test Coverage
 <b>Security Thinking</b><br>
 OWASP Top 10 • Recon Mindset • Vulnerability Analysis
 
+</p>
+
 <br><br>
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:BFA2DB,100:E8C7C8&height=80"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:BFA2DB,100:E8C7C8&height=70"/>
 
-<!-- Lavender Experience Section -->
+<!-- Experience Section -->
 
-<table width="100%">
+<table width="100%" cellspacing="0" cellpadding="0">
 <tr>
-<td align="center" bgcolor="#F4ECFA">
-
-<br>
-
-<h2 style="color:#8E7AB5;">Experience</h2>
-
-**Junior Software Tester — Since Jan 2025**
+<td bgcolor="#F4ECFA" align="center">
 
 <br><br>
 
-Worked on real product releases across  
+<h2 style="color:#8E7AB5;">Experience</h2>
+
+<p style="max-width:720px;">
+
+<b>Junior Software Tester — Since Jan 2025</b>
+
+<br><br>
+
+Worked on real product releases across<br>
 Web • Android • iOS
 
 <br><br>
 
-Primary focus areas
+Primary focus areas<br>
+Authentication • Messaging Systems • Pre-release validation
 
-Authentication  
-Messaging Systems  
-Pre-release validation
+</p>
 
 <br><br>
 
@@ -105,24 +120,26 @@ Pre-release validation
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:E8C7C8,100:BFA2DB&height=80"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:E8C7C8,100:BFA2DB&height=70"/>
 
-<!-- Pink Currently Building Section -->
+<!-- Currently Building -->
 
-<table width="100%">
+<table width="100%" cellspacing="0" cellpadding="0">
 <tr>
-<td align="center" bgcolor="#FAF0F1">
+<td bgcolor="#FAF0F1" align="center">
 
-<br>
+<br><br>
 
 <h2 style="color:#8E7AB5;">Currently Building</h2>
 
 <br>
 
-Selenium Automation Framework  
-API Testing Suite  
-Security Testing Notes  
+<p style="max-width:720px;">
+Selenium Automation Framework<br>
+API Testing Suite<br>
+Security Testing Notes<br>
 Recon & Utility Scripts
+</p>
 
 <br><br>
 
