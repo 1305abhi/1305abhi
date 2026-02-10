@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BFA2DB,100:E8C7C8&height=240&section=header&text=Abhinandan%20Tiwari&fontSize=48&fontColor=2B2B2B&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BFA2DB,100:E8C7C8&height=260&section=header&text=Abhinandan%20Tiwari&fontSize=48&fontColor=2B2B2B&animation=fadeIn" />
 </p>
 
-<h3 align="center">Security-Minded Software Tester</h3>
+<h3 align="center" style="color:#8E7AB5;">Security-Minded Software Tester</h3>
 
 <p align="center">
 Automation • Attack Surface Thinking • Product Reliability
@@ -12,17 +12,27 @@ Automation • Attack Surface Thinking • Product Reliability
   <img src="https://readme-typing-svg.herokuapp.com?color=8E7AB5&center=true&vCenter=true&lines=Testing+like+a+real+user;Thinking+like+an+attacker;Building+reliable+systems" />
 </p>
 
----
+<br>
 
-<p align="center">
+<table align="center" width="90%">
+<tr>
+<td align="center">
+
 I approach testing from both sides — how users behave and how systems get abused.
-</p>
+
+</td>
+</tr>
+</table>
 
 <br>
 
-<h2 align="center">Security-Driven Testing Approach</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E8C7C8&height=3"/>
 
-<table>
+<br>
+
+<h2 align="center" style="color:#8E7AB5;">Security-Driven Testing Approach</h2>
+
+<table align="center" width="90%">
 <tr>
 <td>
 
@@ -37,35 +47,39 @@ I approach testing from both sides — how users behave and how systems get abus
 
 <br>
 
-<h2 align="center">Core Capability Areas</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=BFA2DB&height=3"/>
 
-<table>
+<br>
+
+<h2 align="center" style="color:#8E7AB5;">Core Capability Areas</h2>
+
+<table align="center" width="90%">
 <tr>
 
-<td width="33%">
+<td width="33%" valign="top">
 
-### Testing
-Functional & Regression  
-Release Validation  
-Bug Tracking  
+<b style="color:#8E7AB5;">Testing</b><br><br>
+Functional & Regression<br>
+Release Validation<br>
+Bug Tracking<br>
 Test Design
 
 </td>
 
-<td width="33%">
+<td width="33%" valign="top">
 
-### Automation
-Selenium WebDriver  
-Java Based Frameworks  
+<b style="color:#8E7AB5;">Automation</b><br><br>
+Selenium WebDriver<br>
+Java Frameworks<br>
 Test Structure & Coverage
 
 </td>
 
-<td width="33%">
+<td width="33%" valign="top">
 
-### Security Thinking
-OWASP Top 10  
-Recon Mindset  
+<b style="color:#8E7AB5;">Security Thinking</b><br><br>
+OWASP Top 10<br>
+Recon Mindset<br>
 Vulnerability Analysis
 
 </td>
@@ -75,22 +89,24 @@ Vulnerability Analysis
 
 <br>
 
-<h2 align="center">Experience</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E8C7C8&height=3"/>
 
-<table>
+<br>
+
+<h2 align="center" style="color:#8E7AB5;">Experience</h2>
+
+<table align="center" width="90%">
 <tr>
 <td>
 
-**Junior Software Tester — Since Jan 2025**
+<b>Junior Software Tester</b> — Since Jan 2025<br><br>
 
-Worked on real product releases across:
+Worked on real product releases across:<br>
+Web • Android • iOS<br><br>
 
-Web • Android • iOS
-
-Primary focus areas:
-
-Authentication  
-Messaging Systems  
+Primary focus areas:<br>
+Authentication<br>
+Messaging Systems<br>
 Pre-release validation
 
 </td>
@@ -99,15 +115,19 @@ Pre-release validation
 
 <br>
 
-<h2 align="center">Currently Building</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=BFA2DB&height=3"/>
 
-<table>
+<br>
+
+<h2 align="center" style="color:#8E7AB5;">Currently Building</h2>
+
+<table align="center" width="90%">
 <tr>
 <td>
 
-• Selenium Automation Framework  
-• API Testing Suite  
-• Security Testing Notes  
+• Selenium Automation Framework<br>
+• API Testing Suite<br>
+• Security Testing Notes<br>
 • Recon & Utility Scripts  
 
 </td>
@@ -116,17 +136,27 @@ Pre-release validation
 
 <br>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=1305abhi&ring=BFA2DB&fire=E8C7C8&currStreakLabel=8E7AB5" />
-</p>
+<table align="center" width="90%">
+<tr>
+<td align="center">
+
+<img src="https://streak-stats.demolab.com?user=1305abhi&ring=BFA2DB&fire=E8C7C8&currStreakLabel=8E7AB5" />
+
+</td>
+</tr>
+</table>
 
 <br>
 
-<h2 align="center">Connect</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E8C7C8&height=3"/>
+
+<br>
+
+<h2 align="center" style="color:#8E7AB5;">Connect</h2>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/abhinandantiwari/">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-8E7AB5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-BFA2DB?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:tiwariabhinandan99@gmail.com">
@@ -135,5 +165,5 @@ Pre-release validation
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8C7C8,100:BFA2DB&height=140&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8C7C8,100:BFA2DB&height=150&section=footer"/>
 </p>
