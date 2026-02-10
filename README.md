@@ -78,7 +78,8 @@ I’m gradually building and publishing:
 - Email: (add professional email)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1305abhi&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=1305abhi&show_icons=true
+  " />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=1305abhi" />
