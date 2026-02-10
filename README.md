@@ -14,121 +14,117 @@ Automation • Attack Surface Thinking • Product Reliability
 
 <br>
 
-<table align="center" width="90%">
+<!-- Lavender Philosophy Section -->
+
+<table width="100%">
 <tr>
-<td align="center">
+<td align="center" bgcolor="#F4ECFA">
+
+<br>
+
+<h2 style="color:#8E7AB5;">Testing Philosophy</h2>
 
 I approach testing from both sides — how users behave and how systems get abused.
 
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=E8C7C8&height=3"/>
-
-<br>
-
-<h2 align="center" style="color:#8E7AB5;">Security-Driven Testing Approach</h2>
-
-<table align="center" width="90%">
-<tr>
-<td>
+<br><br>
 
 • Validate real production and stage releases  
 • Focus on authentication and session flows  
 • Look for misuse paths, not just happy paths  
 • Test features with attacker mindset  
 
+<br>
+
 </td>
 </tr>
 </table>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:E8C7C8,100:BFA2DB&height=80"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=BFA2DB&height=3"/>
+<!-- Pink Capability Section -->
 
-<br>
-
-<h2 align="center" style="color:#8E7AB5;">Core Capability Areas</h2>
-
-<table align="center" width="90%">
+<table width="100%">
 <tr>
+<td align="center" bgcolor="#FAF0F1">
 
-<td width="33%" valign="top">
+<br>
 
-<b style="color:#8E7AB5;">Testing</b><br><br>
-Functional & Regression<br>
-Release Validation<br>
-Bug Tracking<br>
-Test Design
+<h2 style="color:#8E7AB5;">Capability Areas</h2>
 
-</td>
+<br>
 
-<td width="33%" valign="top">
+<b>Testing</b><br>
+Functional • Regression • Release Validation • Bug Tracking
 
-<b style="color:#8E7AB5;">Automation</b><br><br>
-Selenium WebDriver<br>
-Java Frameworks<br>
-Test Structure & Coverage
+<br><br>
 
-</td>
+<b>Automation</b><br>
+Selenium WebDriver • Java Frameworks • Test Coverage
 
-<td width="33%" valign="top">
+<br><br>
 
-<b style="color:#8E7AB5;">Security Thinking</b><br><br>
-OWASP Top 10<br>
-Recon Mindset<br>
-Vulnerability Analysis
+<b>Security Thinking</b><br>
+OWASP Top 10 • Recon Mindset • Vulnerability Analysis
+
+<br><br>
 
 </td>
-
 </tr>
 </table>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:BFA2DB,100:E8C7C8&height=80"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=E8C7C8&height=3"/>
+<!-- Lavender Experience Section -->
 
-<br>
-
-<h2 align="center" style="color:#8E7AB5;">Experience</h2>
-
-<table align="center" width="90%">
+<table width="100%">
 <tr>
-<td>
+<td align="center" bgcolor="#F4ECFA">
 
-<b>Junior Software Tester</b> — Since Jan 2025<br><br>
+<br>
 
-Worked on real product releases across:<br>
-Web • Android • iOS<br><br>
+<h2 style="color:#8E7AB5;">Experience</h2>
 
-Primary focus areas:<br>
-Authentication<br>
-Messaging Systems<br>
+**Junior Software Tester — Since Jan 2025**
+
+<br><br>
+
+Worked on real product releases across  
+Web • Android • iOS
+
+<br><br>
+
+Primary focus areas
+
+Authentication  
+Messaging Systems  
 Pre-release validation
 
+<br><br>
+
 </td>
 </tr>
 </table>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:E8C7C8,100:BFA2DB&height=80"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=BFA2DB&height=3"/>
+<!-- Pink Currently Building Section -->
 
-<br>
-
-<h2 align="center" style="color:#8E7AB5;">Currently Building</h2>
-
-<table align="center" width="90%">
+<table width="100%">
 <tr>
-<td>
+<td align="center" bgcolor="#FAF0F1">
 
-• Selenium Automation Framework<br>
-• API Testing Suite<br>
-• Security Testing Notes<br>
-• Recon & Utility Scripts  
+<br>
+
+<h2 style="color:#8E7AB5;">Currently Building</h2>
+
+<br>
+
+Selenium Automation Framework  
+API Testing Suite  
+Security Testing Notes  
+Recon & Utility Scripts
+
+<br><br>
 
 </td>
 </tr>
@@ -136,19 +132,9 @@ Pre-release validation
 
 <br>
 
-<table align="center" width="90%">
-<tr>
-<td align="center">
-
-<img src="https://streak-stats.demolab.com?user=1305abhi&ring=BFA2DB&fire=E8C7C8&currStreakLabel=8E7AB5" />
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=E8C7C8&height=3"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=1305abhi&ring=BFA2DB&fire=E8C7C8&currStreakLabel=8E7AB5" />
+</p>
 
 <br>
 
@@ -165,5 +151,5 @@ Pre-release validation
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8C7C8,100:BFA2DB&height=150&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8C7C8,100:BFA2DB&height=160&section=footer"/>
 </p>
