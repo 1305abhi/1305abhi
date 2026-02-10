@@ -1,71 +1,139 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=220&section=header&text=Abhinandan%20Tiwari&fontSize=44&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BFA2DB,100:E8C7C8&height=240&section=header&text=Abhinandan%20Tiwari&fontSize=48&fontColor=2B2B2B&animation=fadeIn" />
 </p>
 
-<h3 align="center">Junior Software Tester</h3>
+<h3 align="center">Security-Minded Software Tester</h3>
 
 <p align="center">
-Automation • Reliability • Security Mindset
+Automation • Attack Surface Thinking • Product Reliability
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=8E7AB5&center=true&vCenter=true&lines=Testing+like+a+real+user;Thinking+like+an+attacker;Building+reliable+systems" />
 </p>
 
 ---
 
 <p align="center">
-I test products the way real users and attackers actually interact with them.
+I approach testing from both sides — how users behave and how systems get abused.
 </p>
 
----
+<br>
 
-## What I Do
+<h2 align="center">Security-Driven Testing Approach</h2>
+
+<table>
+<tr>
+<td>
+
+• Validate real production and stage releases  
+• Focus on authentication and session flows  
+• Look for misuse paths, not just happy paths  
+• Test features with attacker mindset  
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<h2 align="center">Core Capability Areas</h2>
+
+<table>
+<tr>
+
+<td width="33%">
 
 ### Testing
-- Functional & Regression Testing  
-- Test Case Design  
-- Release Validation  
+Functional & Regression  
+Release Validation  
+Bug Tracking  
+Test Design
+
+</td>
+
+<td width="33%">
 
 ### Automation
-- Selenium WebDriver  
-- Java Based Test Development  
-- Framework Learning Phase  
+Selenium WebDriver  
+Java Based Frameworks  
+Test Structure & Coverage
+
+</td>
+
+<td width="33%">
 
 ### Security Thinking
-- OWASP Top 10 Awareness  
-- Recon & Attack Surface Mindset  
-- Vulnerability-Oriented Testing  
+OWASP Top 10  
+Recon Mindset  
+Vulnerability Analysis
 
----
+</td>
 
-## Real World Experience
+</tr>
+</table>
 
-Junior Software Tester since January 2025
+<br>
 
-- Tested multiple stage and production releases  
-- Worked across Web, Android, and iOS platforms  
-- Focused on authentication and messaging workflows  
-- Validated features before client delivery  
+<h2 align="center">Experience</h2>
 
----
+<table>
+<tr>
+<td>
 
-## Currently Building
+**Junior Software Tester — Since Jan 2025**
 
-- Selenium Automation Framework  
-- API Testing Suite  
-- Security Testing Notes  
-- Recon & Utility Scripts  
+Worked on real product releases across:
 
----
+Web • Android • iOS
+
+Primary focus areas:
+
+Authentication  
+Messaging Systems  
+Pre-release validation
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<h2 align="center">Currently Building</h2>
+
+<table>
+<tr>
+<td>
+
+• Selenium Automation Framework  
+• API Testing Suite  
+• Security Testing Notes  
+• Recon & Utility Scripts  
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=1305abhi" />
+  <img src="https://streak-stats.demolab.com?user=1305abhi&ring=BFA2DB&fire=E8C7C8&currStreakLabel=8E7AB5" />
 </p>
 
----
+<br>
+
+<h2 align="center">Connect</h2>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/abhinandantiwari/">LinkedIn</a> •
-<a href="mailto:tiwariabhinandan99@gmail.com">Email</a>
+<a href="https://www.linkedin.com/in/abhinandantiwari/">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-8E7AB5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:tiwariabhinandan99@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-E8C7C8?style=for-the-badge&logo=gmail&logoColor=black" />
+</a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:6A5ACD&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8C7C8,100:BFA2DB&height=140&section=footer"/>
 </p>
