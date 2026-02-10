@@ -1,16 +1,79 @@
-## Hi there 👋
+<h1 align="center">Abhinandan Tiwari</h1>
 
-<!--
-**1305abhi/1305abhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=180&section=header&text=Abhinandan%20Tiwari&fontSize=40&fontColor=ffffff" />
+QA Engineer | Automation Testing | Cybersecurity Enthusiast
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I work at the intersection of **quality assurance** and **security thinking**.
+
+Currently focused on:
+
+- Automation testing using Selenium and Java
+- Understanding real product release cycles
+- Learning practical cybersecurity and vulnerability analysis
+
+I enjoy breaking systems in controlled ways so they become more reliable and secure.
+
+---
+
+## Current Focus
+
+- Building automation test frameworks
+- Improving test case design and coverage
+- Exploring web application security
+- Practicing CTF and lab-based security scenarios
+
+---
+
+## Skills
+
+**Testing**
+
+- Manual Testing
+- Regression Testing
+- Test Case Design
+- Bug Reporting
+
+**Automation**
+
+- Selenium WebDriver
+- Java
+- TestNG / JUnit (learning phase)
+
+**Security**
+
+- OWASP Top 10
+- Basic Recon Techniques
+- Vulnerability Analysis
+
+---
+
+## What You’ll See Here Soon
+
+I’m gradually building and publishing:
+
+- Automation testing frameworks
+- API testing projects
+- Security lab writeups
+- Recon and testing utilities
+
+---
+
+## Experience Snapshot
+
+- Working as a Software Testing Intern
+- Tested multiple releases across Web, Android, and iOS platforms
+- Focused on authentication flows and messaging features
+
+---
+
+## Connect With Me
+
+- LinkedIn: (add link)
+- Email: (add professional email)
+
